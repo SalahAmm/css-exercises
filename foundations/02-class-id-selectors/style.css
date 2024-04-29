@@ -1,0 +1,23 @@
+.pink {
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ background-color: hsl(350, 100%, 88%);
+ 
+ 
+}
+
+.pink.three {
+    font-size: 23px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+
+}
+
+#four {
+    background-color: lightseagreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
